@@ -43,7 +43,7 @@ const Profile = () => {
   const logout = (res) => {
     console.log('success:', res);
 
-    navigate('/')
+    navigate('/react-google-login/')
   };
 
 

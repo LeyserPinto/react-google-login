@@ -14,11 +14,11 @@ import Profile from './profile';
 
 const router = createBrowserRouter([
   {
-    path: "/",
+    path: "react-google-login/",
     element: <App />
   },
   {
-    path: "profile",
+    path: "/react-google-login/profile",
     element: <Profile />
   },
 ]);

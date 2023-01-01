@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "deploy": "gh-pages -d dist --name:React Google Login"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "gapi-script": "^1.2.0",
